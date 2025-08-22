@@ -154,7 +154,7 @@ mastering this aspect is essential for anyone working in the AI domain.Asthe com
 It plays a pivotal role in improving a model’s performance, generalization, and capacity to learn from massive datasets. By scaling LLMs effectively, researchers and practitioners can unlock
 unprecedented levels of AI capabilities, paving the way for innovative applications and groundbreaking solutions.
 
-## What are Foundational LLM Models?
+ What are Foundational LLM Models?
 
 As the complexity and size of LLMs continue to grow, the importance of scaling cannot be overstated. It plays a pivotal role in improving a model’s performance, generalization, and capacity to learn from 
 massive datasets. By scaling LLMs effectively, researchers and practitioners can unlock unprecedented levels of AI capabilities, paving the way for innovative applications and groundbreaking solutions.
